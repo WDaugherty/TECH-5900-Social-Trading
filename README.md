@@ -29,6 +29,10 @@ By combining feedback from our coach and the Critters, we decided to choose **Ea
 
 ![Screen Shot 2022-12-01 at 3 49 17 PM](https://user-images.githubusercontent.com/6238480/205156520-eaf64c64-8de4-495f-8c99-2796c1c76fa4.png)
 
+### Value Propositions
+
+With Earnie, you will be able to have a curated and wider net of sources, more fine-tuned insights, and personalized to your preference.
+
 ## Experimentations
 
 To validate these value propositions, we conducted 3 independent experiments with 38 individuals as follows:
