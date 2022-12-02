@@ -41,7 +41,20 @@ To validate these value propositions, we conducted 3 independent experiments wit
 2. To measure customers’ preference in using Earnie over competing products, we conducted a blind comparison with two articles of the same topic and asked the users to pick which one they prefer
 3. To measure whether users value a personalization feature, we conducted a parallel experiment to test users’ response on a curated newsletter and a non-curated version.
 
+
+### Experiment 3 Results
+
+When given the option to express their interests, our users have a significant tendency to choose those articles that are aligned to those interests.
+
+<img width="592" alt="Screen Shot 2022-12-02 at 12 39 57 PM" src="https://user-images.githubusercontent.com/6238480/205352763-82fd8ee0-437d-45c3-8473-8e0391e36bfb.png">
+
+However, when asked to assign a score on how valuable the set of articles have been, both treatment and control groups show similar level.
+
+<img width="614" alt="Screen Shot 2022-12-02 at 12 40 09 PM" src="https://user-images.githubusercontent.com/6238480/205352773-c5414160-2aa3-4214-a608-a5aa2b8ef8ac.png">
+
 From these experiments, we concluded that users find value and prefer Earnie over competing products such as Robinhood and Motley Fool. However, users do not have a strong preference for the personalization feature of Earnie.
+
+
 
 
 
